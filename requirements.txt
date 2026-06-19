@@ -1,0 +1,13 @@
+pandas
+tqdm
+# teacher (Gemini API)
+google-genai
+# student training (separate step, QLoRA)
+torch
+transformers
+bitsandbytes>=0.46.1
+accelerate
+peft
+trl
+datasets
+scikit-learn
